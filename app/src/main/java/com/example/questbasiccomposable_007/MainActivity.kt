@@ -58,7 +58,7 @@ fun BasicComposable(modifier: Modifier = Modifier) {
         Text(
             text = "Versus",
             style = TextStyle(
-                fontSize = 50.sp,
+                fontSize = 60.sp,
                 fontStyle = FontStyle.Italic,
                 color = Color.Blue
             )
