@@ -66,7 +66,7 @@ fun BasicComposable(modifier: Modifier = Modifier) {
         Image(painter = painterResource(id = R.drawable.fifa),
             contentDescription = null,
             modifier = Modifier
-                .size(180.dp)
+                .size(190.dp)
         )
 
 
