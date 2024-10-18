@@ -71,7 +71,7 @@ fun BasicComposable(modifier: Modifier = Modifier) {
         Text(text = "nama",
             modifier = Modifier,
             fontSize = 35.sp,
-            color = Color.Black,
+            color = Color.Magenta,
             fontWeight = FontWeight.Bold
         )
 
