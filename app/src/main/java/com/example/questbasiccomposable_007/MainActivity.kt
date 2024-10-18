@@ -51,11 +51,11 @@ fun BasicComposable(modifier: Modifier = Modifier) {
     ) {
         Text(text = "indonesia",
             modifier = Modifier,
-            fontSize = 70.sp,
+            fontSize = 100.sp,
             color = Color.Red,
             fontWeight = FontWeight.Bold
         )
-        
+
     }
 }
 
