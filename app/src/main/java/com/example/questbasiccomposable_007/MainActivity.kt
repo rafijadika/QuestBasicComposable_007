@@ -86,6 +86,12 @@ fun BasicComposable(modifier: Modifier = Modifier) {
             color = Color.Black,
             fontWeight = FontWeight.Normal
         )
+        Image(painter = painterResource(id = R.drawable.rafi),
+            contentDescription = null,
+            modifier = Modifier
+                .size(300.dp)
+        )
+
 
 
 
