@@ -63,6 +63,12 @@ fun BasicComposable(modifier: Modifier = Modifier) {
                 color = Color.Blue
             )
         )
+        Image(painter = painterResource(id = R.drawable.fifa),
+            contentDescription = null,
+            modifier = Modifier
+                .size(180.dp)
+        )
+
 
 
     }
