@@ -74,6 +74,13 @@ fun BasicComposable(modifier: Modifier = Modifier) {
             color = Color.Magenta,
             fontWeight = FontWeight.Bold
         )
+        Text(text = "Rafi Jadika",
+            modifier = Modifier,
+            fontSize = 35.sp,
+            color = Color.Black,
+            fontWeight = FontWeight.Normal
+        )
+
 
 
 
