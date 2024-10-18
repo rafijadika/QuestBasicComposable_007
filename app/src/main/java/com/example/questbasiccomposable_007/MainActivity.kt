@@ -60,7 +60,7 @@ fun BasicComposable(modifier: Modifier = Modifier) {
             style = TextStyle(
                 fontSize = 60.sp,
                 fontStyle = FontStyle.Italic,
-                color = Color.Cyan
+                color = Color.Green
             )
         )
         Image(painter = painterResource(id = R.drawable.fifa),
